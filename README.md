@@ -2,7 +2,7 @@
 
 ![Banking Risk Assesment Visualization](https://media.licdn.com/dms/image/D4E12AQEK7QhmYeVmeg/article-cover_image-shrink_600_2000/0/1659812434401?e=2147483647&v=beta&t=1WnIMwJLiHJI9u8vJ26xyc-Lmdwe1PXK5ncct5f5oKo)
 
-
+# Deneme
 ## Overview
 This repository hosts a machine learning project aimed at assessing credit risk in the banking industry. The project utilizes data science and machine learning techniques to predict the creditworthiness of banking clients, aiding in effective risk management.
 
